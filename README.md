@@ -11,7 +11,7 @@ This repository use pretrained mtcnn face detector from https://github.com/TropC
 
 ## Usage
 ```
-git clone https://github.com/AndreyMaslow/pytorch-tests-jetpacks
+git clone https://github.com/AndreyMaslow/color-to-depth
 
 cd color-to-depth
 
