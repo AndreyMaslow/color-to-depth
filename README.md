@@ -1,7 +1,7 @@
 # color-to-depth
 
-Repository of bouding box coordinates mapping from color image to depth frame.
-There is a problem that the result of projection are not correct
+Repository of bouding box coordinates mapping from color image to depth frame. It was created for the question on Intel community (https://support.intelrealsense.com/hc/en-us/community/posts/360033564014)
+There is a problem that the result of projection are not correct.
 
 ## Dependencies
 opencv 3.4.1, pytorch (v1.0.0), numpy (1.16.1), pyrealsense2
