@@ -60,7 +60,7 @@ def draw_same_box_test():
 
         boxes = face_detector.predict_bounding_boxes(color_image)
 
-        if boxes is not None:
+        if len(boxes) > 0:
             src_rect = get_biggest_face(boxes)
 
             x1, y1, x2, y2 = src_rect[:4]
